@@ -1,0 +1,3 @@
+http://www.codeproject.com/Articles/64111/Building-a-Quick-and-Handy-Reference-Counting-Clas
+http://www.codeproject.com/Articles/31747/Conservative-Garbage-Collector-for-C
+http://www.codeproject.com/Articles/1669/A-Generational-Garbage-Collector-in-C
